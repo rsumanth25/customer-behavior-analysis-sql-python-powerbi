@@ -97,12 +97,6 @@ The goal is to understand customer trends, identify high-value segments, and sup
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add screenshots from Power BI dashboard here)
-
----
-
 ## 🚀 Future Improvements
 
 * Add machine learning model to predict customer behavior
