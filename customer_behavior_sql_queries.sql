@@ -45,7 +45,7 @@ LIMIT 5;
 
 
 --Q7. Segment customers into New, Returning, and Loyal based on their total 
--- number of previous purchases, and show the count of each segment. 
+-- number of previous purchases, and show the count of each segment?
 with customer_type as (
 SELECT customer_id, previous_purchases,
 CASE 
